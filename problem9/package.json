@@ -1,0 +1,9 @@
+{
+  "name": "fs-operations",
+  "version": "1.0.0",
+  "description": "Demonstration of fs module functions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}

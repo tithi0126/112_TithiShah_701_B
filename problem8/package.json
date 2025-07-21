@@ -1,0 +1,17 @@
+{
+  "name": "script-config",
+  "version": "1.0.0",
+  "description": "Demonstration of package.json scripts",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js",
+    "script1": "node customScript1.js",
+    "script2": "node customScript2.js",
+    "script3": "node customScript3.js",
+    "all-scripts": "npm run script1 && npm run script2 && npm run script3",
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "promisify-unlink",
+  "version": "1.0.0",
+  "description": "A simple Node.js application example.",
+  "main": "promisifyUnlink.js",
+  "scripts": {
+    "start": "node promisifyUnlink.js"
+  }
+}

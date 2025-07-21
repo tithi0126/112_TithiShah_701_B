@@ -1,0 +1,12 @@
+{
+  "name": "zip-creator",
+  "version": "1.0.0",
+  "description": "A simple Node.js application example.",
+  "main": "zipCreator.js",
+  "scripts": {
+    "start": "node zipCreator.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.2"
+  }
+}

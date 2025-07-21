@@ -1,0 +1,12 @@
+{
+  "name": "static-file-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js application example.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

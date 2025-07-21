@@ -1,0 +1,9 @@
+{
+  "name": "tinytimeago_tithi",
+  "version": "1.0.0",
+  "description": "A super tiny function to convert Date to time-ago format",
+  "main": "index.js",
+  "keywords": ["timeago", "date", "tiny", "lightweight", "human-readable"],
+  "author": "Tithi Shah",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "zip-extractor",
+  "version": "1.0.0",
+  "description": "A simple Node.js application example.",
+  "main": "extractZip.js",
+  "scripts": {
+    "start": "node extractZip.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}
